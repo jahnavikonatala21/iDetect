@@ -22,7 +22,7 @@
 
 Click the GIF below to watch the full, high-quality video demo.
 
-[![iDetect Demo GIF](https://github.com/jahnavikonatala21/iDetect/demo.mp4)]
+[![iDetect Demo GIF](https://github.com/jahnavikonatala21/iDetect/blob/main/demo.gif)]
 
 ---
 
@@ -177,7 +177,7 @@ This project was brought to life by a dedicated and collaborative team. For prof
 
 -   **A.Satya Vaishnavi**
     -   *Role:* Core Contributor & Data Pipeline Management
-    -   *Profiles:* [GitHub](https://github.com/satyavaishnavi03) | [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+    -   *Profiles:* [GitHub](https://github.com/satyavaishnavi03) | [LinkedIn](https://www.linkedin.com/in/satya-vaishnavi-188802257/)
 
 -   **Md.Ameer Unnisa**
     -   *Role:* Core Contributor & Frontend Development
