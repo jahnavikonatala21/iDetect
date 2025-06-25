@@ -1,4 +1,4 @@
-# iDetect-Source (Internal Development Repository)
+
 
 # iDetect: An End-to-End Deep Learning System for Video Action Recognition
 
@@ -15,7 +15,7 @@
 
 <br>
 
-**Note: This is the private, internal repository for team collaboration. The public-facing showcase can be found [here](https://github.com/jahnavikonatala21/iDetect).**
+**Note: This is the public-facing showcase .if you need code access you can approach out team (Details provided at our team section)can be found [here](https://github.com/jahnavikonatala21/iDetect-Source).**
 
 ---
 
