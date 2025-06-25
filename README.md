@@ -1,5 +1,4 @@
 
-
 # iDetect: An End-to-End Deep Learning System for Video Action Recognition
 
 <div align="center">
@@ -15,17 +14,25 @@
 
 <br>
 
-**Note: This is the public-facing showcase .if you need code access you can approach out team (Details provided at our team section)can be found [here](https://github.com/jahnavikonatala21/iDetect-Source).**
+**Note: This is the public-facing showcase. If you need code access, you can approach our team (details provided in our team section). The private development repository can be found [here](https://github.com/jahnavikonatala21/iDetect-Source).**
+
+---
+
+## 🎬 Project Demo
+
+Click the GIF below to watch the full, high-quality video demo.
+
+[![iDetect Demo GIF](https://github.com/jahnavikonatala21/iDetect/demo.mp4)]
 
 ---
 
 ## 🚀 Overview
 
-This is the central development repository for the **iDetect** Action Recognition project. All code, experiments, and collaboration happen here.
+This repository serves as the public showcase for the **iDetect** Action Recognition project. All private code, experiments, and collaboration happen in a separate repository.
 
 ## ⚙️ Setup Guide
 
-This guide is for authorized team members to set up the project on their local machines.
+This guide is for authorized team members to set up the project on their local machines from the private repository.
 
 ### **Step 1: Clone the Repository**
 
