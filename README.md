@@ -25,6 +25,8 @@ Click the GIF below to watch the full, high-quality video demo.
 [![iDetect Demo GIF](https://github.com/jahnavikonatala21/iDetect/blob/main/demo.gif)]
 
 ---
+## ✨ Live Demo
+# Try it live on Hugging Face Spaces: [**iDetect**](https://jahnavi21-idetect.hf.space/)
 
 ## 🚀 Overview
 
